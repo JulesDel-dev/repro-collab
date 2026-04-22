@@ -58,7 +58,7 @@ Five participants with normal or corrected-to-normal vision will complete the st
    - 200 trials for comparison sizes very close to the reference (hardest discriminations)
    - 100 trials for intermediate differences
    - 50 trials for the largest differences (easiest discriminations)
-   - Total: approximately 6,850 trials per participant
+   - Total: approximately 20+ trials per participant
 4. Sessions last approximately one hour, with regular breaks to prevent fatigue
 
 ### Key Measurements
