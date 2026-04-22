@@ -48,7 +48,7 @@ Five participants with normal or corrected-to-normal vision will complete the st
 
 ### Procedure
 
-1. Participants sit at a comfortable viewing distance from the tachistoscope
+1. Participants sit at a comfortable viewing distance from their computer monitor.
 2. On each trial:
    - Two squares appear simultaneously (reference and comparison)
    - The participant judges which square is larger by pressing a corresponding button
